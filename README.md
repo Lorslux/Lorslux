@@ -17,7 +17,7 @@
           
   
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="" style="border-radius:50px;" src="https://i.picasion.com/pic92/878c652ca5e3ee8c8e8fedb096f8c5ff.gif">
+  <img align="right" alt="pic" height="100"  width="100" style="border-radius:50px;" src="https://i.picasion.com/pic92/878c652ca5e3ee8c8e8fedb096f8c5ff.gif">
 </div>
 
  ##
