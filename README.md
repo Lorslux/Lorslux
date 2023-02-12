@@ -3,6 +3,10 @@
 <a href="https://github.com/lorslux/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lorslux&show_icons=true&theme=cobalt" />
 </a>
+<a href="https://github.com/lorslux/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorslux&layout=compact&theme=cobalt" />
+</a>
+
 
                                                                                                                                                
 <div style="display: inline-block"><br>
