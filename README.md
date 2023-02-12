@@ -1,7 +1,7 @@
 
 ## Holiii! ^^
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorslux)](https://github.com/lorslux/github-readme-stats)
 
   
                                                                                                                                                
