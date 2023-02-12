@@ -1,13 +1,8 @@
 
 ## Holiii! ^^
-
 <a href="https://github.com/lorslux/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lorslux&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lorslux&show_icons=true&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lorslux&repo=convoychat" />
-</a>
-
 
                                                                                                                                                
 <div style="display: inline-block"><br>
