@@ -31,6 +31,11 @@
  ##
  
 <div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lorslux/Lorslux/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lorslux/Lorslux/blob/output/ocean.svg">
+  <img alt="github-snake" src="https://github.com/Lorslux/Lorslux/blob/output/ocean.svg">
+</picture>
  
-  ![Snake animation](https://github.com/Lorslux/Lorslux/blob/output/github-snake-dark.svg)
 </div>
+
