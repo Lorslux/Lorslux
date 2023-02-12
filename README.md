@@ -32,5 +32,5 @@
  
 <div>
  
-  ![Snake animation](https://github.com/Lorslux/Lorslux/blob/main/.github/workflows/main.yml)
+  ![Snake animation](https://github.com/Lorslux/Lorslux/blob/output/github-contribution-grid-snake.svg)
 </div>
