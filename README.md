@@ -32,5 +32,5 @@
  
 <div>
  
-  ![Snake animation](https://github.com/Lorslux/Lorslux/blob/output/ocean.gif)
+  ![Snake animation](https://github.com/Lorslux/Lorslux/blob/output/github-snake-dark.svg)
 </div>
