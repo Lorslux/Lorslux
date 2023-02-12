@@ -2,7 +2,7 @@
 ## Holiii! ^^
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorslux)](https://github.com/lorslux/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorslux&show_icons=true&theme=cobalt)
   
                                                                                                                                                
 <div style="display: inline-block"><br>
