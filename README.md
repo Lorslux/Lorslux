@@ -1,5 +1,9 @@
 
 ## Holiii! ^^
+<div>
+  ![Captura de pantalla 2023-02-15 a la(s) 16 20 15](https://user-images.githubusercontent.com/60662357/219072306-bae4b69a-ca50-4a5c-9da0-900aa94b2723.png)
+</div>
+
 <div align="center">
   <a href="https://github.com/lorslux/github-readme-stats">
   <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=lorslux&show_icons=true&theme=cobalt" />
