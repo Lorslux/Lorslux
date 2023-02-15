@@ -5,10 +5,10 @@
 
 <div align="center">
   <a href="https://github.com/lorslux/github-readme-stats">
-  <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=lorslux&show_icons=true&theme=cobalt" />
+  <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=lorslux&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/lorslux/github-readme-stats">
-  <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorslux&layout=compact&theme=cobalt" />
+  <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorslux&layout=compact&theme=synthwave" />
 </a>
 </div>
   
